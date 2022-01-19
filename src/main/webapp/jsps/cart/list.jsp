@@ -28,6 +28,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	}
 	.imgg {
 		border:2px solid gray;
+		width: 120px;
+		height: 120px;
 	}
 	a {
 		text-decoration: none;
