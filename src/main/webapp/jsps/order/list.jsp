@@ -29,13 +29,13 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	.divv {
 		border:2px solid gray;
 		width:200px;
-		height:150px;
+		height:125px;
 		text-align:center;
 	}
 	img{
 		margin:10px;
 		width: 180px;
-		height: 130px;
+		height: 100px;
 	}
 	li {
 		margin:10px;

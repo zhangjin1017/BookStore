@@ -7,7 +7,7 @@
     <groupId>com.zj</groupId>
     <artifactId>BookStore</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>BookStore</name>
+    <name>BookStoreByServlet</name>
     <packaging>war</packaging>
 
     <properties>
